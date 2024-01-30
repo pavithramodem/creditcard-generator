@@ -1,0 +1,93 @@
+.box{
+    height : 450px;
+    width : 700px;
+    border : 1px solid gainsboro;
+    margin-left: 430px;
+    margin-top: 90px;
+    background-color: gainsboro;
+    }
+    .App, .App1, .App2{
+      margin-left: 250px; 
+    }
+    .name, .number,.date,.year, .cvc, .button{
+      margin-left : 250px;
+      height: 35px;
+      width :320px;
+      border: 1px solid black;
+      border-radius: 5px;
+      font-size : 20px;
+      padding-left: 20px;
+    
+    }
+    .class, .class1, .class2{
+      margin-top: 30px;
+    }
+    .date{
+      width:55px;
+    }
+    .year{
+      position : absolute;
+      width: 75px;
+      margin-left : 30px;
+    }
+    .cvc{
+      position: absolute;
+      width : 90px;
+      margin-left: 160px;
+      
+    }
+    .month{
+      margin-left: 100px;
+    }
+    .button{
+      margin-top : 50px;
+      background-color: navy;
+      color: white;
+      font-size: 20px;
+      cursor: pointer;
+      width: 340px;
+    }
+    .para,.name1, .number1, .date1, .year1, .cvc1{
+      color:red;
+      padding-left: 250px;
+    }
+    .credit{
+      height: 190px;
+      position: absolute;
+      margin-left : -220px;
+      margin-top: -370px;
+      width: 330px;
+    }
+    .credit-cvc{
+      height: 180px;
+      width: 300px;
+      border-radius: 5px;
+      margin-left: -130px;
+      margin-top: -200px;
+    }
+    .credit-card-overlay{
+      position: absolute;
+      margin-top: -350px;
+    }
+    .field1, .field2, .field3, .field4{
+      margin-left: -110px;
+      font-size: 25px;
+    }
+    .field2{
+      margin-left: -160px;
+    }
+    .field3{
+      margin-left: -50px;
+    }
+    .field4{
+      margin-top: 100px;
+      margin-left: 80px;
+      font-size: 22px;
+    }
+    
+    
+    
+    
+    
+    
+    
